@@ -1,7 +1,7 @@
 # README-Generator
 
   ## Description
-  This project uses inquirer to obtain user input to generate a a README file.
+  This project uses inquirer to obtain user input to generate a a README file. [User Walkthrough](https://drive.google.com/file/d/1jg-K9PkYqYtsSe_Gie8CTBDBXivhv6U7/view?usp=sharing)
 
   ## Table of Contents
   no
